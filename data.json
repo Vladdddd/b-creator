@@ -1,0 +1,58 @@
+﻿{
+    "data": [
+        {
+            "supCode": "11111",
+            "prodCode": "PG00111AA",
+            "labelNumber": "333333333",
+            "lotNumber": "A00999999",
+            "quantity": "08888",
+            "date": "31.10.19",
+            "companySenderName": "Company LLC (000000)",
+            "senderAddress": "Address house 1",
+            "reg": "DBA",
+            "senderStreet": "601 S Santa Fe Ave",
+            "senderCity": "Pueblo",
+            "companyReceiverName": "Company LLC (111111)",
+            "receiverAddress": "Address house 2",
+            "receiverStreet": "911 S Santa Fe Ave",
+            "receiverCity": "Abercrimbir",
+            "tradeName": "PRODUCT1"
+        },
+        {
+            "supCode": "11111",
+            "prodCode": "PG00111AA",
+            "labelNumber": "333333333",
+            "lotNumber": "A00999999",
+            "quantity": "08888",
+            "date": "31.10.20",
+            "companySenderName": "Company LLC (000000)",
+            "senderAddress": "Address house 1",
+            "reg": "DBA",
+            "senderStreet": "601 S Santa Fe Ave",
+            "senderCity": "Pueblo",
+            "companyReceiverName": "Company LLC (111111)",
+            "receiverAddress": "Address house 2",
+            "receiverStreet": "911 S Santa Fe Ave",
+            "receiverCity": "Abercrimbir",
+            "tradeName": "PRODUCT2"
+        },
+        {
+            "supCode": "11111",
+            "prodCode": "PG00111AA",
+            "labelNumber": "333333333",
+            "lotNumber": "A00999999",
+            "quantity": "08888",
+            "date": "31.10.21",
+            "companySenderName": "Company LLC (000000)",
+            "senderAddress": "Address house 1",
+            "reg": "DBA",
+            "senderStreet": "601 S Santa Fe Ave",
+            "senderCity": "Pueblo",
+            "companyReceiverName": "Company LLC (111111)",
+            "receiverAddress": "Address house 2",
+            "receiverStreet": "911 S Santa Fe Ave",
+            "receiverCity": "Abercrimbir",
+            "tradeName": "PRODUCT3"
+        }
+    ]
+}
